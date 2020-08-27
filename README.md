@@ -5,4 +5,4 @@ Problem Statement : A retail company “ABC Private Limited” wants to understa
 
 Objective : This is a regression problem. The aim is to predict sales for the given data with error measured by RMSE.
 
-Score : My Public score is 2381.93 for this competition on Analytics Vidhya. 
+Score : My Public score is 2481.93 for this competition on Analytics Vidhya.
